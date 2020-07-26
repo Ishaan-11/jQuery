@@ -1,9 +1,5 @@
-//set value to red of color property
-// $("h1").css("color","red");
+$("h1").text("bye");
 
-//gives current value of property
-// console.log($("  h1").css("font-size"));
+// $("button").text("Don't click me");
 
-// $("h1").addClass("big-title");
-
-$("h1").addClass("big-title margin-50");
+$("button").html("<em>Hey</em>");
